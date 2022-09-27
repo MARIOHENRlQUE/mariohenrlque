@@ -1,13 +1,13 @@
 
 
-<h1 align="center"> Hi guys, how´s it going?  </h1>
+<h1 align="center"> Hi guys, how´s it going? </h1>
 
-#### 💡 When I discorvered how much tech can help the world, my passion for contribuit with this evolve grow up every day end keep me aways going learning
+#### 💡 <em> When I discorvered how much tech can help the world, my passion for contribuit with this evolve grow up every day end keep me aways going learning.</em>
 
 ###### Before we continue, would you like to take a **cup of coffee ☕**?
 
 
-#### ⚡ I usually use and practice these technologies
+#### ⚡ Actually I practice these technologies
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,26 +21,18 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 #### 💻 WorkSpace
-<div>
-	<a href="https://www.windows.com"> 
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-	</a>
-	<a href="https://www.kernel.org">
-		<img src="https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-	</a>
+<div>	
+	<a href="https://www.windows.com"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> </a>
+	<a href="https://www.kernel.org"> <img src="https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </a>
 </div>
-
-<br>
 
 :sparkles: I'm currently learning a bunch of things. <br />
 :bookmark: Actually doing courses. <br />
 
-<p align="center">
+<p align="center" style="padding-bottom: 10px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariohenrlque&layout=compact&langs_count=16&theme=dracula" width="400" />
   <img align="" src="https://github-readme-stats.vercel.app/api?username=mariohenrlque&show_icons=true&theme=dracula&include_all_commits=true&count_public=true" width="400" />
 </p>
-
-<br/>
 
 <div align="center">
 
