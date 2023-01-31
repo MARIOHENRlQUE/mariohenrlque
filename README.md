@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Olá visitante, how´s it going? </h1>
+<h1 align="center"> Olá visitante, what's up? </h1>
 
 #### 💡 <em> When I discorvered how much tech can help the world, my passion for contribuit with this evolve grow up every day end keep me aways going learning.</em>
 
