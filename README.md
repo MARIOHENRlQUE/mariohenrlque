@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi! I'm Mario 🖐️ What's up? </h1>
+<h1 align="center"> Hey! I'm Mario 🖐️ What's up? </h1>
 
 #### 💡 <em> When I discorvered how much tech can help the world, my passion for contribuit with this evolve grow up every day end keep me aways going learning.</em>
 
