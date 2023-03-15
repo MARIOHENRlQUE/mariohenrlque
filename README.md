@@ -2,7 +2,7 @@
 
 <h1 align="center"> Olá! Meu nome é Mario 🖐️ Como vai? </h1>
 
-#### 💡 <em> Quando eu descobri o quanto a tecnologia pode ajudar o mundo, minha paixão por contribuir com essa evolução cresce a cada dia e me faz continuar sempre aprendendo.</em>
+#### 💡 <em> Quando descobri o quanto a tecnologia pode ajudar o mundo, paixão por contribuir com essa evolução cresceu a cada dia e me fez continuar sempre aprendendo.</em>
 
 ###### Antes de continuarmos, você gostaria de tomar uma **xícara de café ☕**?
 
