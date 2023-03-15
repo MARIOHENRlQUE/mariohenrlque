@@ -1,13 +1,14 @@
 
 
-<h1 align="center"> Hey! I'm Mario 🖐️ What's up? </h1>
+<h1 align="center"> Olá! Meu nome é Mario 🖐️ Como vai? </h1>
 
-#### 💡 <em> When I discorvered how much tech can help the world, my passion for contribuit with this evolve grow up every day end keep me aways going learning.</em>
+#### 💡 <em> Quando eu descobri o quanto a tecnologia pode ajudar o mundo, minha paixão por contribuir com essa evolução cresce a cada dia e me faz continuar sempre aprendendo.</em>
 
-###### Before we continue, would you like to take a **cup of coffee ☕**?
+###### Antes de continuarmos, você gostaria de tomar uma **xícara de café ☕**?
 
 
-#### ⚡ Actually I practice these technologies
+#### ⚡ Atualmente, eu pratico estas tecnologias.
+
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -16,7 +17,7 @@
 
 
 
-#### 🚀 And I´ll learning what's on bellow
+#### 🚀 E irei aprender a que estão logo abaixo.
 
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,8 +31,8 @@
 	<a href="https://www.kernel.org"> <img src="https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </a>
 </div>
 
-:sparkles: I'm currently learning a bunch of things. <br />
-:bookmark: Actually doing courses. <br />
+:sparkles: Constantemente aprendendo novas coisas. <br />
+:bookmark: Atualmente realizando cursos. <br />
 
 <p align="center" style="padding-bottom: 10px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariohenrlque&layout=compact&langs_count=16&theme=dracula" width="400" />
